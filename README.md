@@ -8,8 +8,9 @@ git clone https://github.com/Kelas-Hackers/New-Login
 
 cd login-termuxv2fx
 python2 setup.py
-cd ..
-python2 useradd.py ```
+cd New-Login
+python2 useradd.py 
+```
 ###ENJOY###
 
 
