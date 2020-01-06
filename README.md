@@ -13,10 +13,10 @@ $python2 useradd.py
 
 
 command:
-$useradd : Untuk Menambahkan user Baru
-$passwd : Untuk Mengganti Pw Baru
-$info : Untuk Menampilkan Data User
-$me : Untuk Melihat Author/Pembuat Script ini
+useradd : Untuk Menambahkan user Baru
+passwd : Untuk Mengganti Pw Baru
+info : Untuk Menampilkan Data User
+me : Untuk Melihat Author/Pembuat Script ini
 
 
 
