@@ -2,21 +2,22 @@
 
 # Cara MEmbuat MenuLogin Dengan Termux
 
-Cara Install nya 
-git clone 
-https://github.com/kumpulanremaja/login
-$cd login-termuxv2fx
-$python2 setup.py
-$cd ..
-$python2 useradd.py
+# Cara Install nya 
+```
+git clone https://github.com/Kelas-Hackers/New-Login
+
+cd login-termuxv2fx
+python2 setup.py
+cd ..
+python2 useradd.py ```
 ###ENJOY###
 
 
-command:
-useradd : Untuk Menambahkan user Baru
-passwd : Untuk Mengganti Pw Baru
-info : Untuk Menampilkan Data User
-me : Untuk Melihat Author/Pembuat Script ini
+# command:
+### useradd : Untuk Menambahkan user Baru
+### passwd : Untuk Mengganti Pw Baru
+### info : Untuk Menampilkan Data User
+### me : Untuk Melihat Author/Pembuat Script ini
 
 
 
